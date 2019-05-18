@@ -1,0 +1,5 @@
+Sair(__toque__){
+    showDialog("Deseja sair do jogo?"){
+        cancelar | confirmar  
+    } 
+}

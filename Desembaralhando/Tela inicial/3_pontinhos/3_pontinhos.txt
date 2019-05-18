@@ -1,0 +1,5 @@
+
+3_pontinhos(__toque__){
+    Politica_de_Privacidade()
+    Sobre()
+}

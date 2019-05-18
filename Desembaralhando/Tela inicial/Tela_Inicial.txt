@@ -1,0 +1,28 @@
+Tela_Inicial {
+    Jogar()
+    Configuracoes()
+    Pontuações()
+    Som()
+    Sair()
+    3_pontinhos() 
+}
+
+
+Configurações(__toque__){
+    
+}
+
+
+
+
+
+
+Obs{
+    O botão "home()" está presente em quase todas as telas
+}
+
+Bugs encontrados{
+    1 - Muito tmepo aberto sem utilizar, fecha sozinho ( "não respondendo")
+
+}
+

@@ -1,0 +1,6 @@
+Pontuações(__toque__){
+    "Contextos pontuados"
+        Lista_de_contextos_pontuados(__toque__){
+            Lista_de_pontuação_e_ponto.
+        }
+}
